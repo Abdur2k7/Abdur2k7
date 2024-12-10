@@ -1,12 +1,24 @@
-- 👋 Hi, I’m @Abdur2k7
-- 👀 I’m interested in web dev ...
-- 🌱 I’m currently learning java ...
-- 💞️ I’m looking to collaborate on web devolopement ...
-- 📫 How to reach me abdur44shaikh@gmail.com ...
-- 😄 Pronouns he/him: ...
-- ⚡ Fun fact: i am an aspiring comp sci student  ...
+# 👋 Hello, I'm Abdur Rehman Shaikh!
 
-<!---
-Abdur2k7/Abdur2k7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌟 About Me
+- 🎓 **Computer Science Engineering Student** at Walchand College of Engineering.
+- 🌱 Currently learning **Java**, **Web Development**, and **Video Editing**.
+- 💡 Passionate about **problem-solving**, **Data Structures and Algorithms (DSA)**, and creating impactful web applications.
+
+## 💻 Technical Skills
+- **Programming Languages:** Java, HTML, CSS, JavaScript
+- **Web Development:** Frontend & Backend fundamentals
+- **Other Skills:** Video Editing
+
+## 🚀 What I'm Working On
+- Enhancing my problem-solving skills through competitive programming and DSA challenges.
+- Building projects that combine creativity and technology in web development.
+
+## 🌐 Let's Connect
+- 📫 **Email:** [abdur44prof@gmail.com]
+- 💼 **LinkedIn:** [your-linkedin-profile](https://www.linkedin.com/in/abdur-rehman-shaikh-81b904330/)
+
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
