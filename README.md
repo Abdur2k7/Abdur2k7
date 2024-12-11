@@ -6,8 +6,8 @@
 - 💡 Passionate about **problem-solving**, **Data Structures and Algorithms (DSA)**, and creating impactful web applications.
 
 ## 💻 Technical Skills
-- **Programming Languages:** Java, HTML, CSS, JavaScript
-- **Web Development:** Frontend & Backend fundamentals
+- **Programming Languages:** Java(learning), HTML, CSS, JavaScript(learning)
+- **Web Development:** basics and styling 
 - **Other Skills:** Video Editing
 
 ## 🚀 What I'm Working On
